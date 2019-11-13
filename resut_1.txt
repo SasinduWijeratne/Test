@@ -271,9 +271,41 @@ M5xlarge – 10
 [Worker 9] Time to send to master is 0.653024
 
 
+Ring ::
 
+M5xlarge – 10
 
+[Rank 1] Time for iteration 0 is 0.063155
+[Rank 1] Time for iteration 1 is 0.069429
+[Rank 1] Time for iteration 2 is 0.036556
+[Rank 1] Time for iteration 3 is 0.036535
+[Rank 1] Time for iteration 4 is 0.037219
+[Rank 1] Time for iteration 5 is 0.036623
+[Rank 1] Time for iteration 6 is 0.037337
+[Rank 1] Time for iteration 7 is 0.036775
+[Rank 1] Time for iteration 8 is 0.037422
 
+M5xlarge – 8
+
+[Rank 5] Time for iteration 0 is 0.084812
+[Rank 5] Time for iteration 1 is 0.085352
+[Rank 5] Time for iteration 2 is 0.050042
+[Rank 5] Time for iteration 3 is 0.050211
+[Rank 5] Time for iteration 4 is 0.052036
+[Rank 5] Time for iteration 5 is 0.049078
+[Rank 5] Time for iteration 6 is 0.049992
+
+M5xlarge – 5
+
+[Rank 3] Time for iteration 0 is 0.123929
+[Rank 3] Time for iteration 1 is 0.143506
+[Rank 3] Time for iteration 2 is 0.085216
+[Rank 3] Time for iteration 3 is 0.086733
+
+M5xlarge – 3
+
+[Rank 1] Time for iteration 0 is 0.156264
+[Rank 1] Time for iteration 1 is 0.181472
 
 
 
