@@ -271,41 +271,215 @@ M5xlarge – 10
 [Worker 9] Time to send to master is 0.653024
 
 
-Ring ::
+Ring 
 
 M5xlarge – 10
 
-[Rank 1] Time for iteration 0 is 0.063155
-[Rank 1] Time for iteration 1 is 0.069429
-[Rank 1] Time for iteration 2 is 0.036556
-[Rank 1] Time for iteration 3 is 0.036535
-[Rank 1] Time for iteration 4 is 0.037219
-[Rank 1] Time for iteration 5 is 0.036623
-[Rank 1] Time for iteration 6 is 0.037337
-[Rank 1] Time for iteration 7 is 0.036775
-[Rank 1] Time for iteration 8 is 0.037422
+[Rank 0] Time for iteration 0 is 0.238655
+[Rank 0] Time for iteration 1 is 0.225099
+[Rank 0] Time for iteration 2 is 0.194841
+[Rank 0] Time for iteration 3 is 0.195036
+[Rank 0] Time for iteration 4 is 0.194659
+[Rank 0] Time for iteration 5 is 0.194751
+[Rank 0] Time for iteration 6 is 0.194639
+[Rank 0] Time for iteration 7 is 0.194647
+[Rank 0] Time for iteration 8 is 0.194634
+
+[Rank 1] Time for iteration 0 is 0.061745
+[Rank 1] Time for iteration 1 is 0.081704
+[Rank 1] Time for iteration 2 is 0.057152
+[Rank 1] Time for iteration 3 is 0.052308
+[Rank 1] Time for iteration 4 is 0.059685
+[Rank 1] Time for iteration 5 is 0.052531
+[Rank 1] Time for iteration 6 is 0.047028
+[Rank 1] Time for iteration 7 is 0.045237
+[Rank 1] Time for iteration 8 is 0.047578
+
+[Rank 2] Time for iteration 0 is 0.070084
+[Rank 2] Time for iteration 1 is 0.068354
+[Rank 2] Time for iteration 2 is 0.034515
+[Rank 2] Time for iteration 3 is 0.035158
+[Rank 2] Time for iteration 4 is 0.034710
+[Rank 2] Time for iteration 5 is 0.034654
+[Rank 2] Time for iteration 6 is 0.034964
+[Rank 2] Time for iteration 7 is 0.035198
+[Rank 2] Time for iteration 8 is 0.034819
+
+[Rank 3] Time for iteration 0 is 0.063531
+[Rank 3] Time for iteration 1 is 0.071508
+[Rank 3] Time for iteration 2 is 0.030073
+[Rank 3] Time for iteration 3 is 0.031568
+[Rank 3] Time for iteration 4 is 0.027418
+[Rank 3] Time for iteration 5 is 0.029494
+[Rank 3] Time for iteration 6 is 0.030099
+[Rank 3] Time for iteration 7 is 0.029052
+[Rank 3] Time for iteration 8 is 0.031126
+
+[Rank 4] Time for iteration 0 is 0.159903
+[Rank 4] Time for iteration 1 is 0.161620
+[Rank 4] Time for iteration 2 is 0.116286
+[Rank 4] Time for iteration 3 is 0.118513
+[Rank 4] Time for iteration 4 is 0.116225
+[Rank 4] Time for iteration 5 is 0.116567
+[Rank 4] Time for iteration 6 is 0.117501
+[Rank 4] Time for iteration 7 is 0.120465
+[Rank 4] Time for iteration 8 is 0.117454
+
+[Rank 5] Time for iteration 0 is 0.066295
+[Rank 5] Time for iteration 1 is 0.069007
+[Rank 5] Time for iteration 2 is 0.044480
+[Rank 5] Time for iteration 3 is 0.042015
+[Rank 5] Time for iteration 4 is 0.044239
+[Rank 5] Time for iteration 5 is 0.041888
+[Rank 5] Time for iteration 6 is 0.042449
+[Rank 5] Time for iteration 7 is 0.041295
+[Rank 5] Time for iteration 8 is 0.052297
+
+[Rank 6] Time for iteration 0 is 0.072323
+[Rank 6] Time for iteration 1 is 0.069539
+[Rank 6] Time for iteration 2 is 0.035975
+[Rank 6] Time for iteration 3 is 0.036517
+[Rank 6] Time for iteration 4 is 0.035702
+[Rank 6] Time for iteration 5 is 0.035931
+[Rank 6] Time for iteration 6 is 0.036046
+[Rank 6] Time for iteration 7 is 0.036417
+[Rank 6] Time for iteration 8 is 0.035480
+
+[Rank 7] Time for iteration 0 is 0.065138
+[Rank 7] Time for iteration 1 is 0.071172
+[Rank 7] Time for iteration 2 is 0.028169
+[Rank 7] Time for iteration 3 is 0.028456
+[Rank 7] Time for iteration 4 is 0.028192
+[Rank 7] Time for iteration 5 is 0.028438
+[Rank 7] Time for iteration 6 is 0.028073
+[Rank 7] Time for iteration 7 is 0.028358
+[Rank 7] Time for iteration 8 is 0.028185
+
+[Rank 8] Time for iteration 0 is 0.244293
+[Rank 8] Time for iteration 1 is 0.242206
+[Rank 8] Time for iteration 2 is 0.198706
+[Rank 8] Time for iteration 3 is 0.199029
+[Rank 8] Time for iteration 4 is 0.198716
+[Rank 8] Time for iteration 5 is 0.198928
+[Rank 8] Time for iteration 6 is 0.198602
+[Rank 8] Time for iteration 7 is 0.198841
+[Rank 8] Time for iteration 8 is 0.198567
+
+[Rank 9] Time for iteration 0 is 0.059646
+[Rank 9] Time for iteration 1 is 0.053802
+[Rank 9] Time for iteration 2 is 0.024142
+[Rank 9] Time for iteration 3 is 0.024481
+[Rank 9] Time for iteration 4 is 0.024284
+[Rank 9] Time for iteration 5 is 0.024322
+[Rank 9] Time for iteration 6 is 0.024286
+[Rank 9] Time for iteration 7 is 0.024270
+[Rank 9] Time for iteration 8 is 0.024349
+
 
 M5xlarge – 8
 
-[Rank 5] Time for iteration 0 is 0.084812
-[Rank 5] Time for iteration 1 is 0.085352
-[Rank 5] Time for iteration 2 is 0.050042
-[Rank 5] Time for iteration 3 is 0.050211
-[Rank 5] Time for iteration 4 is 0.052036
-[Rank 5] Time for iteration 5 is 0.049078
-[Rank 5] Time for iteration 6 is 0.049992
+[Rank 0] Time for iteration 0 is 0.295498
+[Rank 0] Time for iteration 1 is 0.319888
+[Rank 0] Time for iteration 2 is 0.258323
+[Rank 0] Time for iteration 3 is 0.258725
+[Rank 0] Time for iteration 4 is 0.284229
+[Rank 0] Time for iteration 5 is 0.257667
+[Rank 0] Time for iteration 6 is 0.256714
+
+[Rank 1] Time for iteration 0 is 0.079470
+[Rank 1] Time for iteration 1 is 0.087026
+[Rank 1] Time for iteration 2 is 0.052016
+[Rank 1] Time for iteration 3 is 0.049595
+[Rank 1] Time for iteration 4 is 0.051135
+[Rank 1] Time for iteration 5 is 0.049912
+[Rank 1] Time for iteration 6 is 0.050522
+
+[Rank 2] Time for iteration 0 is 0.087592
+[Rank 2] Time for iteration 1 is 0.087548
+[Rank 2] Time for iteration 2 is 0.046667
+[Rank 2] Time for iteration 3 is 0.046244
+[Rank 2] Time for iteration 4 is 0.046666
+[Rank 2] Time for iteration 5 is 0.045922
+[Rank 2] Time for iteration 6 is 0.046647
+
+[Rank 3] Time for iteration 0 is 0.078778
+[Rank 3] Time for iteration 1 is 0.089821
+[Rank 3] Time for iteration 2 is 0.036976
+[Rank 3] Time for iteration 3 is 0.037384
+[Rank 3] Time for iteration 4 is 0.037287
+[Rank 3] Time for iteration 5 is 0.038346
+[Rank 3] Time for iteration 6 is 0.038425
+
+[Rank 4] Time for iteration 0 is 0.295769
+[Rank 4] Time for iteration 1 is 0.303833
+[Rank 4] Time for iteration 2 is 0.250735
+[Rank 4] Time for iteration 3 is 0.251175
+[Rank 4] Time for iteration 4 is 0.258905
+[Rank 4] Time for iteration 5 is 0.252095
+[Rank 4] Time for iteration 6 is 0.252166
+
+[Rank 5] Time for iteration 0 is 0.077178
+[Rank 5] Time for iteration 1 is 0.087755
+[Rank 5] Time for iteration 2 is 0.046082
+[Rank 5] Time for iteration 3 is 0.042712
+[Rank 5] Time for iteration 4 is 0.043809
+[Rank 5] Time for iteration 5 is 0.045740
+[Rank 5] Time for iteration 6 is 0.044365
+
+[Rank 6] Time for iteration 0 is 0.090483
+[Rank 6] Time for iteration 1 is 0.096628
+[Rank 6] Time for iteration 2 is 0.044311
+[Rank 6] Time for iteration 3 is 0.048100
+[Rank 6] Time for iteration 4 is 0.047119
+[Rank 6] Time for iteration 5 is 0.040659
+[Rank 6] Time for iteration 6 is 0.042680
+
+[Rank 7] Time for iteration 0 is 0.088424
+[Rank 7] Time for iteration 1 is 0.094972
+[Rank 7] Time for iteration 2 is 0.053857
+[Rank 7] Time for iteration 3 is 0.060478
+[Rank 7] Time for iteration 4 is 0.058368
+[Rank 7] Time for iteration 5 is 0.053521
+[Rank 7] Time for iteration 6 is 0.055197
 
 M5xlarge – 5
 
-[Rank 3] Time for iteration 0 is 0.123929
-[Rank 3] Time for iteration 1 is 0.143506
-[Rank 3] Time for iteration 2 is 0.085216
-[Rank 3] Time for iteration 3 is 0.086733
+[Rank 0] Time for iteration 0 is 0.190096
+[Rank 0] Time for iteration 1 is 0.188588
+[Rank 0] Time for iteration 2 is 0.178173
+[Rank 0] Time for iteration 3 is 0.178386
+
+[Rank 1] Time for iteration 0 is 0.122176
+[Rank 1] Time for iteration 1 is 0.139652
+[Rank 1] Time for iteration 2 is 0.069944
+[Rank 1] Time for iteration 3 is 0.069588
+
+[Rank 2] Time for iteration 0 is 0.122448
+[Rank 2] Time for iteration 1 is 0.139171
+[Rank 2] Time for iteration 2 is 0.095083
+[Rank 2] Time for iteration 3 is 0.094374
+
+[Rank 3] Time for iteration 0 is 0.205196
+[Rank 3] Time for iteration 1 is 0.192115
+[Rank 3] Time for iteration 2 is 0.157354
+[Rank 3] Time for iteration 3 is 0.156017
+
+[Rank 4] Time for iteration 0 is 0.383095
+[Rank 4] Time for iteration 1 is 0.368602
+[Rank 4] Time for iteration 2 is 0.317564
+[Rank 4] Time for iteration 3 is 0.314696
+
 
 M5xlarge – 3
 
-[Rank 1] Time for iteration 0 is 0.156264
-[Rank 1] Time for iteration 1 is 0.181472
+[Rank 0] Time for iteration 0 is 0.155760
+[Rank 0] Time for iteration 1 is 0.183552
+
+[Rank 1] Time for iteration 0 is 0.204334
+[Rank 1] Time for iteration 1 is 0.234131
+
+[Rank 2] Time for iteration 0 is 0.202690
+[Rank 2] Time for iteration 1 is 0.232501
 
 
 
