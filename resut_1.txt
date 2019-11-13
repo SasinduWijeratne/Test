@@ -1,0 +1,286 @@
+﻿Master/Worker::
+M5xlarge – 3
+[Worker 1] Time to receive from master is 0.452509
+[Worker 1] Time to send to master is 0.310855
+[Worker 1] Time to receive from master is 0.230977
+[Worker 1] Time to send to master is 0.230274
+[Worker 1] Time to receive from master is 0.229568
+[Worker 1] Time to send to master is 0.115311
+[Worker 1] Time to receive from master is 0.229427
+[Worker 1] Time to send to master is 0.115330
+[Worker 1] Time to receive from master is 0.228867
+[Worker 1] Time to send to master is 0.224899
+
+[Worker 2] Time to receive from master is 0.515384
+[Worker 2] Time to send to master is 0.620547
+[Worker 2] Time to receive from master is 0.230974
+[Worker 2] Time to send to master is 0.114964
+[Worker 2] Time to receive from master is 0.229560
+[Worker 2] Time to send to master is 0.230308
+[Worker 2] Time to receive from master is 0.229418
+[Worker 2] Time to send to master is 0.230168
+[Worker 2] Time to receive from master is 0.228808
+[Worker 2] Time to send to master is 0.112214
+
+[Master] Time to receive from workers is 0.620536
+[Master] Time to receive from workers is 0.230288
+[Master] Time to receive from workers is 0.230313
+[Master] Time to receive from workers is 0.230172
+[Master] Time to receive from workers is 0.224903
+
+M5xlarge – 5
+[Master] Time to receive from workers is 0.953447
+[Master] Time to receive from workers is 0.644400
+[Master] Time to receive from workers is 0.637791
+[Master] Time to receive from workers is 0.638022
+[Master] Time to receive from workers is 0.635547
+
+[Worker 1] Time to receive from master is 0.758386
+[Worker 1] Time to send to master is 0.350162
+[Worker 1] Time to receive from master is 0.294690
+[Worker 1] Time to send to master is 0.138125
+[Worker 1] Time to receive from master is 0.291594
+[Worker 1] Time to send to master is 0.206812
+[Worker 1] Time to receive from master is 0.291402
+[Worker 1] Time to send to master is 0.207037
+[Worker 1] Time to receive from master is 0.286425
+[Worker 1] Time to send to master is 0.204576
+
+[Worker 2] Time to receive from master is 1.188867
+[Worker 2] Time to send to master is 0.175141
+[Worker 2] Time to receive from master is 0.746808
+[Worker 2] Time to send to master is 0.068936
+[Worker 2] Time to receive from master is 0.681350
+[Worker 2] Time to send to master is 0.068953
+[Worker 2] Time to receive from master is 0.576200
+[Worker 2] Time to send to master is 0.068911
+[Worker 2] Time to receive from master is 0.650781
+[Worker 2] Time to send to master is 0.067975
+
+[Worker 3] Time to receive from master is 0.758351
+[Worker 3] Time to send to master is 0.522434
+[Worker 3] Time to receive from master is 0.303239
+[Worker 3] Time to send to master is 0.207129
+[Worker 3] Time to receive from master is 0.303012
+[Worker 3] Time to send to master is 0.137917
+[Worker 3] Time to receive from master is 0.318593
+[Worker 3] Time to send to master is 0.137864
+[Worker 3] Time to receive from master is 0.304743
+[Worker 3] Time to send to master is 0.136157
+
+[Worker 4] Time to receive from master is 1.737073
+[Worker 4] Time to send to master is 0.950614
+[Worker 4] Time to receive from master is 1.726258
+[Worker 4] Time to send to master is 0.642127
+[Worker 4] Time to receive from master is 1.726222
+[Worker 4] Time to send to master is 0.635594
+[Worker 4] Time to receive from master is 1.726620
+[Worker 4] Time to send to master is 0.635360
+[Worker 4] Time to receive from master is 1.726248
+[Worker 4] Time to send to master is 0.632922
+
+M5xlarge – 8
+
+[Master] Time to receive from workers is 0.831665
+[Master] Time to receive from workers is 0.606643
+[Master] Time to receive from workers is 0.609230
+[Master] Time to receive from workers is 0.608840
+[Master] Time to receive from workers is 0.610104
+
+[Worker 1] Time to receive from master is 1.094130
+[Worker 1] Time to send to master is 0.328147
+[Worker 1] Time to receive from master is 0.656781
+[Worker 1] Time to send to master is 0.085060
+[Worker 1] Time to receive from master is 0.601973
+[Worker 1] Time to send to master is 0.085280
+[Worker 1] Time to receive from master is 0.655059
+[Worker 1] Time to send to master is 0.085290
+[Worker 1] Time to receive from master is 0.641265
+[Worker 1] Time to send to master is 0.042196
+
+[Worker 2] Time to receive from master is 1.051536
+[Worker 2] Time to send to master is 0.214477
+[Worker 2] Time to receive from master is 0.691381
+[Worker 2] Time to send to master is 0.127553
+[Worker 2] Time to receive from master is 0.623480
+[Worker 2] Time to send to master is 0.127278
+[Worker 2] Time to receive from master is 0.630917
+[Worker 2] Time to send to master is 0.126812
+[Worker 2] Time to receive from master is 0.621042
+[Worker 2] Time to send to master is 0.084378
+
+[Worker 3] Time to receive from master is 0.735829
+[Worker 3] Time to send to master is 0.112419
+[Worker 3] Time to receive from master is 0.386230
+[Worker 3] Time to send to master is 0.042708
+[Worker 3] Time to receive from master is 0.364259
+[Worker 3] Time to send to master is 0.043171
+[Worker 3] Time to receive from master is 0.339499
+[Worker 3] Time to send to master is 0.043062
+[Worker 3] Time to receive from master is 0.341343
+[Worker 3] Time to send to master is 0.126702
+
+[Worker 4] Time to receive from master is 2.582006
+[Worker 4] Time to send to master is 0.629533
+[Worker 4] Time to receive from master is 2.566886
+[Worker 4] Time to send to master is 0.591581
+[Worker 4] Time to receive from master is 2.570509
+[Worker 4] Time to send to master is 0.595785
+[Worker 4] Time to receive from master is 2.569932
+[Worker 4] Time to send to master is 0.595885
+[Worker 4] Time to receive from master is 2.571794
+[Worker 4] Time to send to master is 0.605269
+
+[Worker 5] Time to receive from master is 3.429430
+[Worker 5] Time to send to master is 0.802417
+[Worker 5] Time to receive from master is 3.416544
+[Worker 5] Time to send to master is 0.593613
+[Worker 5] Time to receive from master is 3.423171
+[Worker 5] Time to send to master is 0.595057
+[Worker 5] Time to receive from master is 3.427619
+[Worker 5] Time to send to master is 0.595094
+[Worker 5] Time to receive from master is 3.423164
+[Worker 5] Time to send to master is 0.592825
+
+[Worker 6] Time to send to master is 0.781117
+[Worker 6] Time to receive from master is 3.423129
+[Worker 6] Time to send to master is 0.602060
+[Worker 6] Time to receive from master is 3.420012
+[Worker 6] Time to send to master is 0.606809
+[Worker 6] Time to receive from master is 3.421784
+[Worker 6] Time to send to master is 0.603603
+[Worker 6] Time to receive from master is 3.415707
+[Worker 6] Time to send to master is 0.604898
+
+[Worker 7] Time to receive from master is 2.617609
+[Worker 7] Time to send to master is 0.829347
+[Worker 7] Time to receive from master is 2.596198
+[Worker 7] Time to send to master is 0.596600
+[Worker 7] Time to receive from master is 2.608399
+[Worker 7] Time to send to master is 0.597214
+[Worker 7] Time to receive from master is 2.605952
+[Worker 7] Time to send to master is 0.597249
+[Worker 7] Time to receive from master is 2.604967
+[Worker 7] Time to send to master is 0.596126
+
+M5xlarge – 10
+
+[Master] Time to receive from workers is 0.883588
+[Master] Time to receive from workers is 0.658917
+[Master] Time to receive from workers is 0.659241
+[Master] Time to receive from workers is 0.654729
+[Master] Time to receive from workers is 0.655563
+
+[Worker 1] Time to receive from master is 0.688613
+[Worker 1] Time to send to master is 0.076074
+[Worker 1] Time to receive from master is 0.341376
+[Worker 1] Time to send to master is 0.029876
+[Worker 1] Time to receive from master is 0.324270
+[Worker 1] Time to send to master is 0.029938
+[Worker 1] Time to receive from master is 0.324479
+[Worker 1] Time to send to master is 0.059212
+[Worker 1] Time to receive from master is 0.340363
+[Worker 1] Time to send to master is 0.029683
+
+[Worker 2] Time to receive from master is 0.937107
+[Worker 2] Time to send to master is 0.151695
+[Worker 2] Time to receive from master is 0.558364
+[Worker 2] Time to send to master is 0.059620
+[Worker 2] Time to receive from master is 0.543111
+[Worker 2] Time to send to master is 0.059706
+[Worker 2] Time to receive from master is 0.579236
+[Worker 2] Time to send to master is 0.089026
+[Worker 2] Time to receive from master is 0.512036
+[Worker 2] Time to send to master is 0.088951
+
+[Worker 3] Time to receive from master is 1.058516
+[Worker 3] Time to send to master is 0.228479
+[Worker 3] Time to receive from master is 0.436215
+[Worker 3] Time to send to master is 0.089340
+[Worker 3] Time to receive from master is 0.663524
+[Worker 3] Time to send to master is 0.089683
+[Worker 3] Time to receive from master is 0.592584
+[Worker 3] Time to send to master is 0.029418
+[Worker 3] Time to receive from master is 0.537284
+[Worker 3] Time to send to master is 0.058990
+
+[Worker 4] Time to receive from master is 2.573720
+[Worker 4] Time to send to master is 0.880757
+[Worker 4] Time to receive from master is 2.568180
+[Worker 4] Time to send to master is 0.656293
+[Worker 4] Time to receive from master is 2.588712
+[Worker 4] Time to send to master is 0.649951
+[Worker 4] Time to receive from master is 2.586880
+[Worker 4] Time to send to master is 0.636810
+[Worker 4] Time to receive from master is 2.582273
+[Worker 4] Time to send to master is 0.635244
+
+[Worker 5] Time to receive from master is 5.043290
+[Worker 5] Time to send to master is 0.845058
+[Worker 5] Time to receive from master is 5.130280
+[Worker 5] Time to send to master is 0.464641
+[Worker 5] Time to receive from master is 5.085463
+[Worker 5] Time to send to master is 0.466014
+[Worker 5] Time to receive from master is 5.128902
+[Worker 5] Time to send to master is 0.424904
+[Worker 5] Time to receive from master is 5.069250
+[Worker 5] Time to send to master is 0.463307
+
+[Worker 6] Time to receive from master is 5.044486
+[Worker 6] Time to send to master is 0.676099
+[Worker 6] Time to receive from master is 5.122900
+[Worker 6] Time to send to master is 0.643598
+[Worker 6] Time to receive from master is 5.092582
+[Worker 6] Time to send to master is 0.648354
+[Worker 6] Time to receive from master is 5.132717
+[Worker 6] Time to send to master is 0.652168
+[Worker 6] Time to receive from master is 5.081530
+[Worker 6] Time to send to master is 0.617201
+
+[Worker 7] Time to receive from master is 2.590151
+[Worker 7] Time to send to master is 0.846359
+[Worker 7] Time to receive from master is 2.596502
+[Worker 7] Time to send to master is 0.619970
+[Worker 7] Time to receive from master is 2.600244
+[Worker 7] Time to send to master is 0.655102
+[Worker 7] Time to receive from master is 2.607254
+[Worker 7] Time to send to master is 0.586337
+[Worker 7] Time to receive from master is 2.595614
+[Worker 7] Time to send to master is 0.608342
+
+[Worker 8] Time to receive from master is 5.117150
+[Worker 8] Time to send to master is 0.662321
+[Worker 8] Time to receive from master is 5.132860
+[Worker 8] Time to send to master is 0.411813
+[Worker 8] Time to receive from master is 5.108461
+[Worker 8] Time to send to master is 0.429607
+[Worker 8] Time to receive from master is 5.095388
+[Worker 8] Time to send to master is 0.466327
+[Worker 8] Time to receive from master is 5.134044
+[Worker 8] Time to send to master is 0.419973
+
+[Worker 9] Time to receive from master is 5.125105
+[Worker 9] Time to send to master is 0.825908
+[Worker 9] Time to receive from master is 5.131931
+[Worker 9] Time to send to master is 0.581074
+[Worker 9] Time to receive from master is 5.132707
+[Worker 9] Time to send to master is 0.628721
+[Worker 9] Time to receive from master is 5.129553
+[Worker 9] Time to send to master is 0.610231
+[Worker 9] Time to receive from master is 5.077941
+[Worker 9] Time to send to master is 0.653024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
